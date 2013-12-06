@@ -7,6 +7,6 @@ class Spy < Formula
   version '0.7'
 
   def install
-    bin.install Dir['*']
+    bin.install Dir['bin/*']
   end
 end
