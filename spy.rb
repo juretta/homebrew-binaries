@@ -8,5 +8,6 @@ class Spy < Formula
 
   def install
     bin.install Dir['bin/*']
+    man1.install('man/spy.1')
   end
 end
