@@ -2,9 +2,9 @@ require 'formula'
 
 class StashCommitGraphReader < Formula
   homepage 'https://bitbucket.org/ssaasen/stash-commit-graph-reader'
-  url 'https://bitbucket.org/ssaasen/stash-commit-graph-reader/downloads/stash-commit-graph-reader-0.1.tar.gz'
-  sha1 '20e8e8639797ee0a0ffd3d2fe02a7210d2688239'
-  version '0.1'
+  url 'https://bitbucket.org/ssaasen/stash-commit-graph-reader/downloads/stash-commit-graph-reader-0.2.tar.gz'
+  sha1 'c527b3747fad33eda83737fa307e43c7ca99f225'
+  version '0.2'
 
   def install
     bin.install Dir['bin/*']
