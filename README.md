@@ -1,3 +1,7 @@
-# Homebrew tap for Spy
+# Homebrew tap for Binaries
 
-See https://bitbucket.org/ssaasen/spy
+Binaries bottled for:
+
+* https://bitbucket.org/ssaasen/spy
+* https://bitbucket.org/ssaasen/stash-log-parser
+* https://bitbucket.org/ssaasen/stash-commit-graph-reader
