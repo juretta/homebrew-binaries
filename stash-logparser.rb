@@ -2,9 +2,9 @@ require 'formula'
 
 class StashLogparser < Formula
   homepage 'https://bitbucket.org/ssaasen/stash-log-parser'
-  url 'https://bitbucket.org/ssaasen/stash-log-parser/downloads/logparser-osx-x86_64-v2.0.tar.gz'
-  sha1 '70b70cdf508abc2cc436d94c611e0fc84231c2a1'
-  version '2.0'
+  url 'https://bitbucket.org/ssaasen/stash-log-parser/downloads/logparser-osx-x86_64-v3.0.tar.gz'
+  sha1 '7ffde894eedf0c0a2aecf21ab20e9a0478d2ecd7'
+  version '3.0'
 
   def install
     bin.install Dir['bin/*']
