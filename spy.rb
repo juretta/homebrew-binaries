@@ -3,7 +3,7 @@ require 'formula'
 class Spy < Formula
   homepage 'https://bitbucket.org/ssaasen/spy'
   url 'https://bitbucket.org/ssaasen/spy/downloads/spy-osx-x86_64-v0.12.tar.gz'
-  sha1 '978d321f2f9956dc836b75bd4d552205798e3cf0'
+  sha256 '84197708bd771f87d8b792b3c0f2178852065f101b5fc4195dcfcec88f1676b4'
   version '0.12'
 
   def install
